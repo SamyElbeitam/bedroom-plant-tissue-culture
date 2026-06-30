@@ -15,3 +15,5 @@ status: In Progress
 ## Live Bench Observations
 - 14:00 - Sterilized workspace with 70% IPA.
 - 14:30 - Initiated bleach wash. Explant #4 looked slightly damaged by the bleach concentration.
+  
+  TEMPLATE
