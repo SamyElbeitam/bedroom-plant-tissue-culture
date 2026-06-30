@@ -1,7 +1,7 @@
 # bedroom-plant-tissue-culture
 # 🌿 Micropropagation in My Room
 
-Welcome to my open-source plant tissue culture research repository. I am documenting my self-directed study in botanical micropropagation, tracking culture media variations, and optimizing tissue culture protocols right from my bedroom. test
+Welcome to my open-source plant tissue culture research repository. I am documenting my self-directed study in botanical micropropagation, tracking culture media variations, and optimizing tissue culture protocols right from my bedroom.
 
 ## 📊 Current Focus
 - **Target Species: Tradescantia Pallida**
