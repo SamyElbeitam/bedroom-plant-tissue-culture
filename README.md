@@ -3,8 +3,8 @@
 
 Welcome to my open-source plant tissue culture research repository. I am documenting my self-directed study in botanical micropropagation, tracking culture media variations, and optimizing tissue culture protocols right from my bedroom.
 ## 📊 Current Focus
-- **Target Species: Tradescantia Pallida**
-- **Current Objective:** Establishing a proper protocol for Tradescantia.
+- **Target Species: Streptocarpus Ionanthus**
+- **Current Objective:** Establishing a proper batch of African violets.
 - **Tools Used:** Obsidian, GitHub, DIY Still Air Box.
 
 ## 📁 Repository Map
